@@ -12,6 +12,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      {/* <h1 className='text-3xl underline'>Testing</h1> */}
       <Spline className={styles.spline} scene="https://prod.spline.design/jwBUVw7L85y0WV4p/scene.splinecode" />
     </>
   )
